@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 8dp Grid System -->
+    <item name="spacing_tiny" type="dimen">4dp</item>
+    <item name="spacing_small" type="dimen">8dp</item>
+    <item name="spacing_normal" type="dimen">16dp</item>
+    <item name="spacing_medium" type="dimen">24dp</item>
+    <item name="spacing_large" type="dimen">32dp</item>
+
+    <!-- Corners -->
+    <item name="corner_radius_small" type="dimen">8dp</item>
+    <item name="corner_radius_medium" type="dimen">12dp</item>
+    <item name="corner_radius_large" type="dimen">16dp</item>
+
+    <!-- Elevation -->
+    <item name="card_elevation" type="dimen">4dp</item>
+
+    <!-- Fonts -->
+    <item name="text_h1" type="dimen">24sp</item>
+    <item name="text_h2" type="dimen">20sp</item>
+    <item name="text_body" type="dimen">16sp</item>
+    <item name="text_caption" type="dimen">14sp</item>
+</resources>
